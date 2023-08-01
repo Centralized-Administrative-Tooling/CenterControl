@@ -1,2 +1,3 @@
-# Admin-UI
-The UI for a centralized administrative tool
+# CenterControl
+
+The UI for a centralized administrative tool that allows switching between admin APIs.
